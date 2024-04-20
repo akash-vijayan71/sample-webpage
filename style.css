@@ -1,0 +1,8 @@
+.banner{
+    background-image: url(img1.webp);
+    background-size: cover;
+    height: 500px;
+}
+h3{
+    text-align: center;
+}
